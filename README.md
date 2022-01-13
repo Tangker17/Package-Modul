@@ -5,7 +5,7 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Folder Syntax | [penjelasan](#Tugas PackageModule) | [codenye](Syntax Program) |
+| 1. | Folder Syntax | [penjelasan](#Tugas PackageModule) | [codenye](https://github.com/Tangker17/coba/tree/main/Syntax%20Program) |
 | 2. | hasil Program | [penjelasan](#Tugas PackageModule) | [foto](image) |  
 
 # Tugas PackageModule
